@@ -1,6 +1,10 @@
 # MLOps.community Knowledge Base
 
-This base is a central hub of the knowledge collected by [MLOps.community](https://mlops.community) - an open community, where everyone is welcome to ask, discuss, and share knowledge about MLOps. Here you can:
+This base is a central hub of the knowledge collected by [MLOps.community](https://mlops.community) - an open community, where everyone is welcome to ask, discuss, and share knowledge about MLOps. 
+
+It is powered by GitBook and can be found [here](https://mariyadavydova.gitbook.io/mlops).
+
+Here you can:
 
 * understand what is MLOps; 
 * learn about various aspects of MLOps; 
